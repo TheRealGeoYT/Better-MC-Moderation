@@ -1,1 +1,1 @@
-# bBetter-MC-Moderation
+# Better-MC-Moderation
